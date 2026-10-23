@@ -1,0 +1,15 @@
+C:\Users\Інвалід\OOP-Fesiuk\lab14v4\bin\Debug\net9.0\lab14v4.exe
+C:\Users\Інвалід\OOP-Fesiuk\lab14v4\bin\Debug\net9.0\lab14v4.deps.json
+C:\Users\Інвалід\OOP-Fesiuk\lab14v4\bin\Debug\net9.0\lab14v4.runtimeconfig.json
+C:\Users\Інвалід\OOP-Fesiuk\lab14v4\bin\Debug\net9.0\lab14v4.dll
+C:\Users\Інвалід\OOP-Fesiuk\lab14v4\bin\Debug\net9.0\lab14v4.pdb
+C:\Users\Інвалід\OOP-Fesiuk\lab14v4\obj\Debug\net9.0\lab14v4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Інвалід\OOP-Fesiuk\lab14v4\obj\Debug\net9.0\lab14v4.AssemblyInfoInputs.cache
+C:\Users\Інвалід\OOP-Fesiuk\lab14v4\obj\Debug\net9.0\lab14v4.AssemblyInfo.cs
+C:\Users\Інвалід\OOP-Fesiuk\lab14v4\obj\Debug\net9.0\lab14v4.csproj.CoreCompileInputs.cache
+C:\Users\Інвалід\OOP-Fesiuk\lab14v4\obj\Debug\net9.0\lab14v4.sourcelink.json
+C:\Users\Інвалід\OOP-Fesiuk\lab14v4\obj\Debug\net9.0\lab14v4.dll
+C:\Users\Інвалід\OOP-Fesiuk\lab14v4\obj\Debug\net9.0\refint\lab14v4.dll
+C:\Users\Інвалід\OOP-Fesiuk\lab14v4\obj\Debug\net9.0\lab14v4.pdb
+C:\Users\Інвалід\OOP-Fesiuk\lab14v4\obj\Debug\net9.0\lab14v4.genruntimeconfig.cache
+C:\Users\Інвалід\OOP-Fesiuk\lab14v4\obj\Debug\net9.0\ref\lab14v4.dll
